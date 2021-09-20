@@ -22,8 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Sor_kai
 - ⚡ Fun fact: Enjoying making friends,Like new things,A bit procrastinating 🤣
 ***
-- 🔭 现就读于长春工业大学🏫
-- 🌱 正在学习C语言🕐
-- 📫 联系我: 发送邮件到 wk@wangkai88.com 或者在我的<a href="https://www.wangkai88.com/3" target="_blank">网站</a>上留言💬
-- 😄 昵称: Sor_kai
-- ⚡ 有趣的事实: 乐于交友,喜欢新事物,有点拖延症🤣
+
