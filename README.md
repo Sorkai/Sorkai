@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Studying at Changchun University of Technology🏫
 - 🌱 I’m currently learning GO🕐
-- 📫 How to reach me: Send mail to wk@sorkai.com Or Leave a message on my <a href="https://www.sorkai.com/qapress-new" target="_blank">website</a>💬
+- 📫 How to reach me: Send mail to wk@sorkai.com Or Leave a message on my <a href="https://www.sorkai.com/ly" target="_blank">website</a>💬
 - 😄 Pronouns: Sor_kai
 - ⚡ Fun fact: Enjoying making friends,Like new things,A bit procrastinating 🤣
 ***
